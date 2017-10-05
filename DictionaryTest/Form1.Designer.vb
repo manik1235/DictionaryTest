@@ -64,14 +64,14 @@ Partial Class Form1
         '
         'TextBox3
         '
-        Me.TextBox3.Location = New System.Drawing.Point(136, 77)
+        Me.TextBox3.Location = New System.Drawing.Point(140, 47)
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(132, 20)
         Me.TextBox3.TabIndex = 5
         '
         'TextBox4
         '
-        Me.TextBox4.Location = New System.Drawing.Point(136, 37)
+        Me.TextBox4.Location = New System.Drawing.Point(140, 73)
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.Size = New System.Drawing.Size(132, 20)
         Me.TextBox4.TabIndex = 4
